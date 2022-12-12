@@ -14,5 +14,5 @@ FlashChat is a chatting appliaction, it has firebase cloud firestore and firebas
 
 ## Motivation 
 
-[londonappbrewery](https://github.com/londonappbrewery/bmi-calculator-flutter)
+[londonappbrewery](https://github.com/londonappbrewery/flash-chat-flutter)
 
