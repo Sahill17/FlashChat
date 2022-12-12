@@ -1,6 +1,6 @@
 # FlashChat
 
-FlashChat is a chatting appliaction, it has firebase cloud firestore and firebase authentication services with a NoSQL database ans secure authentication methods.
+FlashChat is a chatting appliaction, it has firebase cloud firestore and firebase authentication services with a NoSQL database and secure authentication methods.
 
 ## Package's Used 
 
