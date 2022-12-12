@@ -1,16 +1,12 @@
-# flashchat
+# FlashChat
 
-A new Flutter project.
+FlashChat is a chatting appliaction, it has firebase cloud firestore and firebase authentication services with a NoSQL database ans secure authentication methods.
 
-## Getting Started
+## Package's Used 
 
-This project is a starting point for a Flutter application.
+- [IO](https://api.flutter.dev/flutter/dart-io/dart-io-library.html)
 
-A few resources to get you started if this is your first Flutter project:
+## Motivation 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[londonappbrewery](https://github.com/londonappbrewery/bmi-calculator-flutter)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
